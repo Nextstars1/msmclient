@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "versionName": "5.7.0 hook fix",
+  "files": [
+    {
+      "name": "game_base.apk",
+      "size": 82782609,
+      "sha256": "d95249375e36880561f7fd7e432c324c04e4cc9141367c4624739f210438cfdd"
+    },
+    {
+      "name": "game_split_arm64.apk",
+      "size": 26751734,
+      "sha256": "223ed985727498fb6cce27427e331851627d3bf06d86d5e59075425229f28560"
+    },
+    {
+      "name": "game_split_hdpi.apk",
+      "size": 259230,
+      "sha256": "0d309705329f99794e822a42c5e77f9a32a5f27827e4550ef60afd89d80b0387"
+    },
+    {
+      "name": "game_split_pt.apk",
+      "size": 24922,
+      "sha256": "03164eef87bb51e68e801705d6113a010322e027f1f6ca7d604f6fdd4682c21b"
+    },
+    {
+      "name": "game_split_assets.apk",
+      "size": 384956990,
+      "sha256": "81aaa461a812051789d233a0e14384ca5e8f9ccb90225928855476ed3d7c674a",
+      "url": "https://github.com/Nextstars1/msmclient/releases/download/v3/game_split_assets.apk"
+    }
+  ]
+}
